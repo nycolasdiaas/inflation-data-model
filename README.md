@@ -1,0 +1,2 @@
+# Brazil Inflation Data Model
+
